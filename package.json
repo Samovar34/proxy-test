@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/unscript/proxy-test/issues"
   },
-  "homepage": "https://github.com/unscript/proxy-test#readme"
+  "homepage": "https://github.com/unscript/proxy-test#readme",
+  "dependencies": {
+    "http-proxy": "^1.16.2"
+  }
 }
